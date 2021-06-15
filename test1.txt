@@ -5,3 +5,4 @@ second test file3
 second test file4
 second test file5
 second test file6
+second test file7
